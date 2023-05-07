@@ -7,3 +7,4 @@ O le fa'ailoga pito i luma o le upega tafa'ilagi o se puna tatala, fa'afeiloa'i 
 * [code pito i luma](https://github.com/xxai-art/web)
 * [Gagana mo le saite atoa](https://github.com/xxai-art/web/tree/main/i18n)
 * [Gagana fa'apipi'i mo fa'aoga fa'aoga](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Upega Tafa'ilagi Fa'amaumauga e tele gagana](https://github.com/xxai-doc)
